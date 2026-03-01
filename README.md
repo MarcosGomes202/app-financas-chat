@@ -1,120 +1,69 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-Projeto desenvolvido como desafio prático utilizando o conceito de **Vibe Coding**, com foco em aprender a guiar Inteligências Artificiais de forma estratégica, criativa e intencional.
+Projeto desenvolvido com foco em Vibe Coding, utilizando Inteligência Artificial como parceira estratégica para estruturar ideias, criar conceitos de produto e desenvolver um plano de MVP sem a necessidade de programar manualmente.
 
-O objetivo não é escrever código manualmente, mas sim aprender a estruturar ideias, criar bons prompts e transformar conversas com IA em conceitos de produto reais.
+---
 
 # ✨ O que é Vibe Coding?
 
-Vibe Coding é uma abordagem leve e criativa de desenvolvimento com IA.
+Vibe Coding é uma abordagem criativa de desenvolvimento com IA baseada em conversas claras e estruturadas.
 
-Em vez de programar linha por linha, você:
-
-- Explica sua ideia com clareza
-- Define contexto e intenção
-- Guia a IA como parceira criativa
-- Ajusta e melhora os prompts até atingir o resultado desejado
-
-Em resumo:
+Você não escreve código linha por linha.  
+Você guia a IA com contexto, intenção e clareza.
 
 > Você mostra a vibe da sua ideia e a IA transforma em solução.
 
-# 🎯 Desafio
-
-## 📌 Problema
-
-Muitas pessoas não conseguem manter um controle financeiro porque:
-
-- Aplicativos exigem muita entrada manual de dados  
-- Criar orçamentos é visto como algo tedioso  
-- Falta personalização nas recomendações  
-
-Precisamos de uma solução que permita controlar as finanças por meio de conversas simples, com agentes de IA capazes de criar planos de economia personalizados e automatizados.
-
-
-# 💡 Proposta de Solução
-
-Criar o conceito de um **App de Organização de Finanças Pessoais baseado em conversa**, utilizando princípios de:
-
-- Vibe Coding  
-- MVP (Produto Mínimo Viável)  
-- Comunicação clara com IA  
-- Design simples e acessível  
-
-⚠️ Importante:  
-O foco do projeto não é construir código funcional, mas sim desenvolver a habilidade de estruturar prompts e transformar ideias em conceitos funcionais simulados.
-
+---
 
 # 🧠 PRD (Product Requirements Document)
 
 ## Contexto
 
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
+Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas em linguagem natural, permitindo que o usuário registre e acompanhe seus gastos sem depender de formulários ou planilhas complexas.
 
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
-
+---
 
 ## Problema
 
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.
+A maioria dos aplicativos de finanças exige entrada manual extensa e oferece pouca personalização, o que desmotiva os usuários.  
+A proposta é oferecer uma experiência conversacional com recomendações automáticas de economia, tornando o processo mais simples e engajador.
 
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
-
+---
 
 ## Público-Alvo
 
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+Pessoas que desejam começar a organizar suas finanças de forma prática.
 
+Usuários iniciantes que se sentem sobrecarregados com apps tradicionais.
+
+Pessoas que preferem interações naturais em vez de interfaces rígidas.
+
+Todos os perfis de usuários, independentemente de idade, nível de habilidade digital ou condição física, já que o app deve seguir princípios de Design Universal.
+
+---
 
 ## Funcionalidades-Chave
 
-1. Registrar gastos via chat em linguagem natural  
-2. Classificar automaticamente as transações  
-3. Definir e acompanhar metas financeiras  
-4. Receber dicas de economia do “Agente Financeiro”  
-5. Visualizar relatórios simples e personalizados  
+- Registro de gastos via chat em linguagem natural.  
+- Classificação automática das transações (alimentação, transporte, lazer etc.).  
+- Definição e acompanhamento de metas financeiras (ex.: guardar R$200/mês).  
+- Agente Financeiro que fornece dicas de economia personalizadas.  
+- Relatórios simples e visuais, adaptados ao perfil do usuário.  
+- Design Universal: interface acessível, inclusiva e intuitiva para o maior número possível de pessoas.  
 
+---
 
 ## Entregável da IA
 
-- Gerar um plano de MVP com as principais telas  
-- Listar recursos necessários  
-- Criar um esboço de validação inicial  
-- Utilizar tom educativo e linguagem acessível  
+Plano de MVP contendo:
 
+- Principais telas (chat, metas, relatórios).  
+- Recursos necessários (NLP para entender linguagem natural, categorização automática, motor de recomendações).  
+- Esboço de validação inicial (testes com usuários iniciantes e diversos perfis, feedback sobre clareza e acessibilidade).  
 
-# 🪄 Etapas do Desenvolvimento
+Linguagem acessível e educativa em português.
 
-## 1️⃣ Estruturação do Prompt
-
-- Criação do PRD simplificado  
-- Revisão e melhoria do prompt  
-- Clareza na intenção antes de solicitar qualquer resposta à IA  
-
-O PRD funciona como um briefing estratégico para a IA entender exatamente a “vibe” do projeto.
-
-
-## 2️⃣ Exploração com IA
-
-Utilização estratégica de ferramentas de IA para:
-
-- Definir o comportamento do Agente Financeiro  
-- Criar fluxo conceitual de telas  
-- Gerar plano resumido de MVP  
-- Simular validação inicial  
-
-Foco em qualidade de instrução e aproveitamento máximo das interações.
-
-
-## 3️⃣ Entrega do Projeto
-
-O repositório contém:
-
-- PRD final utilizado  
-- Estrutura conceitual do aplicativo  
-- Resumo do plano de MVP  
-- Reflexão sobre o processo de Vibe Coding  
-
+---
 
 # 🚀 Conceito do MVP
 
@@ -126,45 +75,24 @@ O aplicativo proposto inclui:
 - Relatórios simples e educativos  
 - Agente Financeiro com recomendações personalizadas  
 
+---
 
 # 📊 Plano de Validação Inicial
 
-Grupo piloto com usuários iniciantes.
+Grupo piloto com usuários iniciantes e perfis diversos.
 
 Métricas avaliadas:
 
 - Facilidade para registrar o primeiro gasto  
 - Clareza das recomendações  
 - Percepção de simplicidade  
+- Feedback sobre acessibilidade  
 - Intenção de continuar usando após 7 dias  
 
-
-# 🧩 Reflexão Sobre o Processo
-
-## ✅ O que funcionou bem?
-
-- Clareza no PRD melhorou significativamente as respostas da IA  
-- Prompts estruturados geraram respostas mais alinhadas ao objetivo  
-- A IA respondeu melhor quando recebeu contexto e intenção  
-
-## ⚠️ O que pode melhorar?
-
-- Prompts genéricos geram respostas superficiais  
-- Falta de detalhamento reduz a qualidade da entrega  
-
-## 📚 Aprendizado Principal
-
-Aprendi que conversar com IA é uma habilidade estratégica.
-
-Quanto mais clara e intencional for a comunicação, mais próxima do ideal será a resposta.
-
-Vibe Coding é sobre pensar junto com a IA, não apenas pedir código.
-
+---
 
 # 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade.
+Este projeto demonstra a aplicação prática de Vibe Coding na criação de um conceito funcional de produto digital.
 
-Este projeto demonstra a capacidade de transformar ideias em conceitos estruturados, utilizando IA como parceira estratégica no processo de criação.
-
-A tecnologia deixa de ser apenas ferramenta e passa a ser extensão do raciocínio criativo.
+A proposta não é apenas construir um aplicativo de finanças, mas aprender a estruturar ideias, criar bons prompts e utilizar a Inteligência Artificial como parceira criativa no desenvolvimento de soluções.
